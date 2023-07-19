@@ -7,7 +7,7 @@
 /* Function prototype for _putchar */
 int _putchar(char c);
 
-/* Function prototype for print_alphabet_x10 */
-void print_alphabet_x10(void);
+/* Function prototype for _islower */
+int _islower(int c);
 
 #endif /* MAIN_H */

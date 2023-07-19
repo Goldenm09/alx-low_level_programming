@@ -1,10 +1,10 @@
 #ifndef MAIN_H
 #define MAIN_H
 
-/* Function prototypes */
+/* Function prototype for _putchar */
 int _putchar(char c);
 
-/* Function prototype for print_last_digit */
-int print_last_digit(int n);
+/* Function prototype for jack_bauer */
+void jack_bauer(void);
 
 #endif /* MAIN_H */

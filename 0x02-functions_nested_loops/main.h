@@ -3,6 +3,8 @@
 
 /* Function prototypes */
 int _putchar(char c);
-int _abs(int n);
+
+/* Function prototype for print_last_digit */
+int print_last_digit(int n);
 
 #endif /* MAIN_H */

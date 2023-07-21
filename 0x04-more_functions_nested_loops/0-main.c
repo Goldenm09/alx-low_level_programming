@@ -1,12 +1,11 @@
+#include "main.h"
 #include <stdio.h>
 
-int _isupper(int c);
-
 /**
- * main - check the code.
- *
- * Return: Always 0.
- */
+ *  * main - check the code.
+ *   *
+ *    * Return: Always 0.
+ *     */
 int main(void)
 {
 char c;

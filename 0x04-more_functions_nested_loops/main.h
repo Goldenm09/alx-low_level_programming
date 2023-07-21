@@ -1,9 +1,6 @@
-/* main.h */
-
 #ifndef MAIN_H
 #define MAIN_H
 
-/* Function prototype for _isupper */
-int _isupper(int c);
+int _isdigit(int c);
 
 #endif /* MAIN_H */
